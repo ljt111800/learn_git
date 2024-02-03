@@ -1,9 +1,9 @@
-russel is a good person.
+1.russel is a good person.
 
-clipper is champion!
+2.clipper is champion!
 
-pg is too.
+3.pg is too.
 
-fix the bug .
-GIT BRANCH STUDY....OK 100%！
+4.fix the bug .
+5.GIT BRANCH STUDY....OK 100%！
 
